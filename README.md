@@ -30,7 +30,7 @@
 
 
 # video phân tích dữ liệu mẫu
-c
+```
     https://www.youtube.com/watch?v=VH2JgqlN2so&t=628s
 ```
 # Git cơ bản
