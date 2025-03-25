@@ -19,8 +19,10 @@
     quận nào bán chạy nhất?
      Các mặt hàng thường được oder cùng nhau.
     Doanh thu hàng tháng có xu hướng tăng hay giảm trong năm?
+    
 #5.Xây dụng model học máy.
-       Dự đoánh doanh thu trong tương lai.
+      
+      Dự đoánh doanh thu trong tương lai.
        Phân loại nhóm khách hàng
        Gợi ý combo các sản phẩm mua cùng nhau
        Dự đoán sản phẩm có tiềm năng, từ đó đẩy mạnh quảng cáo.
@@ -28,7 +30,7 @@
 
 
 # video phân tích dữ liệu mẫu
-```bash 
+c
     https://www.youtube.com/watch?v=VH2JgqlN2so&t=628s
 ```
 # Git cơ bản
